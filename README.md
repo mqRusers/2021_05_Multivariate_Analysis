@@ -1,13 +1,14 @@
 # 2021_05_Multivariate_Analysis
 How can we perform mulitvariate analyses in R? 
 
-Recording of this workshop: 
+Recording of this workshop (including the chat): 
+https://macquarie.zoom.us/rec/play/VStZSzGRq9Z_YkrQwmz-9yDsw1cqAaLsbUrsZqTpdKVCMJ5Mf7HZ2-TceFWC-l0L2vs_4yrts34ORcS6.9jvLN6wOtfo2lWzu?continueMode=true
 
-Please download all files and save to your personal computer usign the "GREEN DOWNLOAD" button near the top right of your screen.
+Please download all files and save to your personal computer using the "GREEN CODE" button near the top right of your screen.
 
-This workshop is given by Vincen Raoult from UoN (@sawsharkman) - Thannks Vince!
+This workshop is given by Vincen Raoult from UoN (@sawsharkman) - Thanks for a very insightful workshop Vince!
 
-
+Please post any questions you may have onto our slack channel and we'll try and help you out: mqcoders.slack.com 
 
 __________________________________________________________________________________________________
 
