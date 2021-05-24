@@ -13,15 +13,18 @@ ________________________________________________________________________________
 
 Additional resources for mulitvariate analyses:
 
-Visualising multivariate data: 
+VISUALISING MULTIVARIATE DATA: 
+
 From the UNSW Environmental computing website: 
 http://environmentalcomputing.net/visualising-multivariate-data/ 
 
 MVABUND:
+
 Also from Environmental computing website: 
 http://environmentalcomputing.net/introduction-to-mvabund/ 
 
 VEGAN: 
+
 From Gavin Simpson (@ucfagls) 
 
 Introduction to Multivariate data Analysis using Vegan
