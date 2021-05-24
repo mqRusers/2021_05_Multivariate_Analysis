@@ -1,0 +1,317 @@
+DayNight,DayNumber,Depth,MaxN,SpeciesFull
+Day,3,20,1,  sp1
+Day,3,25,1,  sp1
+Day,2,15,23,  sp2
+Day,3,10,1,  sp2
+Day,2,20,1,  sp3
+Day,4,25,1,  sp4
+Day,4,25,1,  sp5
+Day,3,55,1,  sp6
+Night,2,25,2,  sp6
+Night,5,10,1,  sp6
+Night,5,25,1,  sp6
+Night,5,30,1,  sp6
+Day,3,45,1,  sp7
+Night,5,35,1,  sp7
+Night,5,40,1,  sp7
+Night,5,50,1,  sp7
+Night,5,60,1,  sp7
+Day,1,5,3,Acanthuridae Acanthurus blochii
+Day,2,20,1,Acanthuridae Acanthurus lineatus
+Day,1,10,2,Acanthuridae Acanthurus lineatus
+Day,4,5,2,Acanthuridae Acanthurus mata
+Day,1,5,1,Acanthuridae Acanthurus mata
+Day,2,20,1,Acanthuridae Ctenochaetus striatus
+Day,2,30,1,Acanthuridae Ctenochaetus striatus
+Day,3,5,2,Acanthuridae Ctenochaetus striatus
+Day,1,5,2,Acanthuridae Ctenochaetus striatus
+Day,2,30,1,Acanthuridae Naso brachycentron
+Day,3,25,3,Acanthuridae Naso brevirostris
+Night,1,5,1,Acanthuridae Naso hexacanthus
+Night,1,10,1,Acanthuridae Naso hexacanthus
+Day,1,10,6,Acanthuridae Naso hexacanthus
+Day,3,5,1,Acanthuridae Naso lituratus
+Day,4,15,1,Acanthuridae Naso lituratus
+Day,3,10,1,Acanthuridae Zebrasoma scopas
+Day,4,5,1,Acanthuridae Zebrasoma scopas
+Day,1,5,1,Acanthuridae Zebrasoma scopas
+Night,1,5,1,Apogonidae Apogon sp1
+Night,4,5,2,Apogonidae Apogon sp1
+Day,1,5,3,Apogonidae Apogon sp1
+Night,1,5,1,Apogonidae Apogon sp2
+Night,3,55,1,Apogonidae Apogon sp3
+Night,3,60,1,Apogonidae Apogon sp3
+Night,4,60,1,Apogonidae Apogon sp3
+Day,3,5,1,Balistidae Balistapus undulatus
+Day,3,10,1,Balistidae Balistapus undulatus
+Day,3,15,1,Balistidae Balistapus undulatus
+Day,3,20,1,Balistidae Balistapus undulatus
+Day,3,25,1,Balistidae Balistapus undulatus
+Day,3,35,1,Balistidae Balistapus undulatus
+Day,3,45,1,Balistidae Balistapus undulatus
+Day,4,10,2,Balistidae Balistapus undulatus
+Day,3,30,1,Balistidae Balistoides viridescens
+Day,3,50,1,Balistidae Balistoides viridescens
+Day,1,60,1,Balistidae Balistoides viridescens
+Day,2,35,4,Balistidae Odonus niger
+Day,1,40,2,Balistidae Pseudobalistes fuscus
+Day,1,10,1,Balistidae Sufflamen chrysopterum
+Day,1,40,1,Balistidae Sufflamen chrysopterum
+Day,2,15,1,Balistidae Sufflamen sp1
+Day,3,20,1,Balistidae Sufflamen sp1
+Day,3,25,1,Balistidae Sufflamen sp1
+Day,3,30,1,Balistidae Sufflamen sp1
+Day,3,35,1,Balistidae Sufflamen sp1
+Day,4,5,1,Balistidae Sufflamen sp1
+Day,4,10,1,Balistidae Sufflamen sp1
+Day,4,55,1,Balistidae Sufflamen sp1
+Day,4,60,1,Balistidae Sufflamen sp1
+Night,2,20,1,Balistidae Sufflamen sp1
+Night,5,30,1,Balistidae Sufflamen sp1
+Night,5,45,1,Balistidae Sufflamen sp1
+Day,2,15,1,Carangidae Caranx melampygus
+Day,4,10,1,Carangidae Caranx melampygus
+Day,4,15,1,Carangidae Caranx melampygus
+Day,3,35,1,Chaetodontidae Chaetodon kleinii
+Day,4,10,1,Chaetodontidae Chaetodon kleinii
+Day,2,15,1,Chaetodontidae Chaetodon sp1
+Day,2,20,2,Chaetodontidae Chaetodon sp1
+Night,4,20,2,Chaetodontidae Chaetodon sp2
+Night,3,45,1,Fistulariidae Fistularia commersonii
+Night,4,35,2,Fistulariidae Fistularia commersonii
+Night,4,45,1,Fistulariidae Fistularia commersonii
+Night,1,10,1,Fistulariidae Fistularia commersonii
+Night,1,40,1,Fistulariidae Fistularia commersonii
+Day,2,30,2,Gobiidae Valenciennea strigata
+Night,1,5,1,Holocentridae Myripristis murdjan
+Night,1,10,1,Holocentridae Myripristis murdjan
+Day,3,5,1,Holocentridae Myripristis violacea
+Day,4,5,5,Holocentridae Myripristis violacea
+Day,4,10,4,Holocentridae Myripristis violacea
+Night,2,5,2,Holocentridae Myripristis violacea
+Night,2,20,1,Holocentridae Myripristis violacea
+Night,5,10,1,Holocentridae Myripristis violacea
+Night,3,40,1,Holocentridae Myripristis vittata
+Day,4,10,1,Holocentridae Sargocentron spiniferum
+Day,1,60,1,Labridae  
+Day,2,15,4,Labridae  sp1
+Day,2,20,4,Labridae  sp1
+Day,3,5,12,Labridae  sp1
+Day,3,15,4,Labridae  sp1
+Day,3,25,7,Labridae  sp1
+Day,3,30,4,Labridae  sp1
+Day,4,5,9,Labridae  sp1
+Day,4,10,4,Labridae  sp1
+Day,4,15,16,Labridae  sp1
+Day,2,15,1,Labridae  sp2
+Day,3,25,1,Labridae  sp2
+Day,2,25,1,Labridae Choerodon sp2
+Day,1,15,3,Labridae Coris pictoides
+Day,1,5,1,Labridae Gomphosus varius
+Night,4,15,1,Labridae Halichoeres sp2
+Day,3,30,1,Labridae Labroides dimidiatus
+Day,4,5,1,Labridae Labroides dimidiatus
+Day,1,5,1,Labridae Labroides dimidiatus
+Day,2,15,1,Lethrinidae  sp1
+Day,3,5,1,Lethrinidae  sp1
+Day,3,25,1,Lethrinidae  sp1
+Day,3,35,1,Lethrinidae  sp1
+Day,4,40,1,Lethrinidae  sp1
+Day,3,10,10,Lethrinidae Gnathodentex aureolineatus
+Day,4,10,10,Lethrinidae Gnathodentex aureolineatus
+Night,1,20,1,Lethrinidae Lethrinus sp1
+Night,1,15,1,Lethrinidae Lethrinus xanthochilus
+Day,3,5,2,Lethrinidae Monotaxis grandoculis
+Night,2,15,1,Lethrinidae Monotaxis grandoculis
+Night,4,15,1,Lethrinidae Monotaxis grandoculis
+Day,1,5,1,Lutjanidae Lutjanus bohar
+Day,2,25,4,Lutjanidae Lutjanus gibbus
+Night,4,20,1,Lutjanidae Lutjanus gibbus
+Night,4,25,1,Lutjanidae Lutjanus gibbus
+Night,1,30,1,Lutjanidae Lutjanus gibbus
+Night,3,30,1,Lutjanidae Lutjanus monostigma
+Night,3,35,1,Lutjanidae Lutjanus monostigma
+Night,3,40,1,Lutjanidae Lutjanus monostigma
+Night,5,30,1,Lutjanidae Lutjanus monostigma
+Night,5,35,1,Lutjanidae Lutjanus monostigma
+Night,1,35,1,Lutjanidae Lutjanus monostigma
+Day,3,5,1,Lutjanidae Lutjanus sp1
+Day,4,5,1,Lutjanidae Lutjanus sp1
+Night,2,20,1,Lutjanidae Lutjanus sp1
+Night,3,50,1,Lutjanidae Lutjanus sp1
+Day,4,45,4,Malacanthidae  sp1
+Day,3,40,1,Malacanthidae Malacanthus brevirostris
+Day,4,55,1,Malacanthidae Malacanthus brevirostris
+Day,2,35,1,Mullidae  sp1
+Day,2,25,2,Mullidae Mulloidichthys vanicolensis
+Night,1,40,1,Mullidae Parupeneus cyclostomus
+Day,1,45,1,Mullidae Parupeneus cyclostomus
+Day,2,25,2,Mullidae Parupeneus multifasciatus
+Day,4,5,1,Mullidae Parupeneus multifasciatus
+Day,4,10,2,Mullidae Parupeneus multifasciatus
+Day,4,15,2,Mullidae Parupeneus multifasciatus
+Day,4,20,1,Mullidae Parupeneus multifasciatus
+Night,2,55,1,Mullidae Parupeneus multifasciatus
+Night,3,45,1,Mullidae Parupeneus multifasciatus
+Night,4,45,1,Mullidae Parupeneus multifasciatus
+Night,5,20,1,Mullidae Parupeneus multifasciatus
+Night,5,50,1,Mullidae Parupeneus multifasciatus
+Night,5,55,1,Mullidae Parupeneus multifasciatus
+Night,5,60,1,Mullidae Parupeneus multifasciatus
+Night,1,35,1,Mullidae Parupeneus multifasciatus
+Day,1,5,1,Mullidae Parupeneus multifasciatus
+Day,1,10,1,Mullidae Parupeneus multifasciatus
+Day,1,20,2,Mullidae Parupeneus multifasciatus
+Day,1,35,1,Mullidae Parupeneus multifasciatus
+Day,1,50,1,Mullidae Parupeneus multifasciatus
+Day,1,55,1,Mullidae Parupeneus multifasciatus
+Day,3,20,1,Mullidae Parupeneus multifasciatus
+Day,1,50,2,Nemipteridae Pentapodus sp1
+Night,3,35,1,Nemipteridae Pentapodus sp1
+Night,3,55,1,Nemipteridae Pentapodus sp1
+Night,4,5,1,Nemipteridae Scolopsis sp1
+Night,1,45,1,Nemipteridae Scolopsis sp1
+Day,1,25,1,Nemipteridae Scolopsis sp1
+Day,1,30,1,Nemipteridae Scolopsis sp1
+Night,1,10,1,Nemipteridae Scolopsis sp2
+Night,3,30,1,Nemipteridae Scolopsis sp3
+Night,1,15,1,Nemipteridae Scolopsis sp3
+Night,1,25,1,Nemipteridae Scolopsis sp3
+Night,1,35,1,Nemipteridae Scolopsis sp3
+Night,1,50,1,Nemipteridae Scolopsis sp3
+Night,1,55,1,Nemipteridae Scolopsis sp3
+Night,1,60,2,Nemipteridae Scolopsis sp3
+Night,1,30,2,Nemipteridae Scolopsis sp4
+Night,1,35,1,Nemipteridae Scolopsis sp4
+Day,3,10,1,Ostraciidae Ostracion cubicus
+Night,2,5,5,Pempherididae Pempheris sp1
+Night,1,60,1,Pinguipedidae Parapercis sp1
+Day,3,15,3,Pomacanthidae Centropyge sp1
+Day,3,35,3,Pomacanthidae Centropyge sp1
+Day,4,15,2,Pomacanthidae Centropyge sp1
+Day,1,5,2,Pomacanthidae Centropyge sp1
+Day,1,15,2,Pomacanthidae Centropyge sp1
+Day,1,20,4,Pomacanthidae Centropyge sp1
+Day,1,35,1,Pomacanthidae Centropyge sp1
+Day,1,45,1,Pomacanthidae Centropyge sp1
+Day,1,60,2,Pomacentridae  sp3
+Day,1,55,2,Pomacentridae  sp3
+Day,3,5,6,Pomacentridae Abudefduf sexfasciatus
+Day,4,5,1,Pomacentridae Abudefduf sexfasciatus
+Day,1,10,3,Pomacentridae Abudefduf sexfasciatus
+Day,1,5,7,Pomacentridae Abudefduf vaigiensis
+Day,2,15,2,Pomacentridae Amblyglyphidodon aureus
+Day,4,30,3,Pomacentridae Amblyglyphidodon aureus
+Day,1,10,4,Pomacentridae Amblyglyphidodon aureus
+Day,1,20,2,Pomacentridae Amblyglyphidodon aureus
+Day,1,30,1,Pomacentridae Amblyglyphidodon aureus
+Day,4,15,1,Pomacentridae Amblyglyphidodon leucogaster
+Day,4,40,4,Pomacentridae Amblyglyphidodon leucogaster
+Day,1,35,3,Pomacentridae Amphiprion clarkii
+Day,3,10,1,Pomacentridae Amphiprion sp1
+Day,4,10,4,Pomacentridae Amphiprion sp1
+Day,1,10,1,Pomacentridae Amphiprion sp1
+Day,2,15,2,Pomacentridae Chromis sp1
+Day,2,25,1,Pomacentridae Chromis sp1
+Day,2,35,1,Pomacentridae Chromis sp1
+Day,2,40,2,Pomacentridae Chromis sp1
+Day,2,50,2,Pomacentridae Chromis sp1
+Day,3,35,3,Pomacentridae Chromis sp1
+Day,4,15,3,Pomacentridae Chromis sp1
+Day,4,25,7,Pomacentridae Chromis sp1
+Day,4,30,2,Pomacentridae Chromis sp1
+Day,4,45,2,Pomacentridae Chromis sp1
+Day,4,50,1,Pomacentridae Chromis sp1
+Day,4,55,1,Pomacentridae Chromis sp1
+Day,4,60,1,Pomacentridae Chromis sp2
+Day,3,10,1,Pomacentridae Chromis sp3
+Day,3,50,1,Pomacentridae Chromis sp3
+Day,3,20,1,Pomacentridae Chromis sp5
+Day,3,30,1,Pomacentridae Chromis sp5
+Day,2,20,1,Pomacentridae Chromis sp6
+Day,2,30,2,Pomacentridae Chromis sp6
+Day,1,35,2,Pomacentridae Chromis sp6
+Day,1,5,22,Pomacentridae Chromis viridis
+Day,1,10,5,Pomacentridae Chromis viridis
+Day,4,30,1,Pomacentridae Chrysiptera rollandi
+Day,3,35,1,Pomacentridae Chrysiptera sp1
+Day,4,25,1,Pomacentridae Chrysiptera sp1
+Day,1,5,11,Pomacentridae Chrysiptera sp1
+Day,3,15,1,Pomacentridae Dascyllus aruanus
+Day,4,15,1,Pomacentridae Dascyllus aruanus
+Day,1,25,1,Pomacentridae Dascyllus aruanus
+Day,1,15,3,Pomacentridae Dascyllus melanurus
+Day,1,20,2,Pomacentridae Dascyllus melanurus
+Day,1,5,5,Pomacentridae Dascyllus reticulatus
+Day,3,15,2,Pomacentridae Dascyllus trimaculatus
+Day,3,25,1,Pomacentridae Dascyllus trimaculatus
+Day,4,10,3,Pomacentridae Dascyllus trimaculatus
+Day,4,15,3,Pomacentridae Dascyllus trimaculatus
+Day,4,20,3,Pomacentridae Dascyllus trimaculatus
+Day,4,30,5,Pomacentridae Dascyllus trimaculatus
+Day,1,10,1,Pomacentridae Dascyllus trimaculatus
+Day,1,15,3,Pomacentridae Dascyllus trimaculatus
+Day,1,35,1,Pomacentridae Dascyllus trimaculatus
+Day,2,40,1,Pomacentridae Dischistodus prosopotaenia
+Day,2,45,2,Pomacentridae Neoglyphidodon melas
+Day,3,5,8,Pomacentridae Neoglyphidodon melas
+Day,3,15,1,Pomacentridae Neoglyphidodon melas
+Day,3,30,4,Pomacentridae Neoglyphidodon melas
+Day,3,35,3,Pomacentridae Neoglyphidodon melas
+Day,3,40,1,Pomacentridae Neoglyphidodon melas
+Day,3,45,4,Pomacentridae Neoglyphidodon melas
+Day,3,55,1,Pomacentridae Neoglyphidodon melas
+Day,4,5,4,Pomacentridae Neoglyphidodon melas
+Day,4,15,2,Pomacentridae Neoglyphidodon melas
+Night,2,15,1,Pomacentridae Neoglyphidodon melas
+Night,2,20,1,Pomacentridae Neoglyphidodon melas
+Night,5,35,1,Pomacentridae Neoglyphidodon melas
+Day,1,5,22,Pomacentridae Neoglyphidodon melas
+Day,2,50,1,Pomacentridae Neopomacentrus bankieri
+Day,2,15,6,Pomacentridae Pomacentrus moluccensis
+Day,2,20,1,Pomacentridae Pomacentrus moluccensis
+Day,2,35,2,Pomacentridae Pomacentrus moluccensis
+Day,3,5,17,Pomacentridae Pomacentrus moluccensis
+Day,3,10,2,Pomacentridae Pomacentrus moluccensis
+Day,3,15,1,Pomacentridae Pomacentrus moluccensis
+Day,4,5,21,Pomacentridae Pomacentrus moluccensis
+Day,4,10,2,Pomacentridae Pomacentrus moluccensis
+Day,4,15,3,Pomacentridae Pomacentrus moluccensis
+Day,4,20,1,Pomacentridae Pomacentrus moluccensis
+Day,4,50,1,Pomacentridae Pomacentrus moluccensis
+Night,2,10,3,Pomacentridae Pomacentrus moluccensis
+Day,1,5,2,Pomacentridae Pomacentrus moluccensis
+Day,2,35,1,Pomacentridae Pomacentrus sp1
+Night,1,25,1,Priacanthidae Priacanthus hamrur
+Night,2,35,2,Pteroidae Pterois russelii
+Night,1,35,2,Pteroidae Pterois sp1
+Day,2,40,1,Scaridae  sp1
+Night,1,20,1,Scorpaenidae Scorpaenopsis sp
+Day,1,40,10,Serranidae Pseudanthias pleurotaenia
+Day,4,15,1,Serranidae Variola louti
+Day,4,40,1,Serranidae Variola louti
+Night,2,10,1,Siganidae Siganus stellatus
+Day,1,5,3,Siganidae Siganus virgatus
+Night,5,50,1,Synodontidae Synodus dermatogenys
+Day,1,45,1,Synodontidae Synodus dermatogenys
+Day,1,55,1,Synodontidae Synodus dermatogenys
+Night,2,35,1,Synodontidae Synodus dermatogenys
+Night,5,55,1,Synodontidae Synodus variegatus
+Night,1,5,1,Tetraodontidae Arothron nigropunctatus
+Day,1,35,1,Tetraodontidae Arothron nigropunctatus
+Night,2,5,2,Tetraodontidae Arothron nigropunctatus
+Day,2,25,1,Tetraodontidae Canthigaster valentini
+Day,4,25,1,Tetraodontidae Canthigaster valentini
+Day,2,15,1,Zanclidae Zanclus cornutus
+Day,3,5,1,Zanclidae Zanclus cornutus
+Day,3,25,1,Zanclidae Zanclus cornutus
+Day,3,30,1,Zanclidae Zanclus cornutus
+Day,3,40,1,Zanclidae Zanclus cornutus
+Day,4,5,1,Zanclidae Zanclus cornutus
+Day,4,15,1,Zanclidae Zanclus cornutus
+Day,4,20,3,Zanclidae Zanclus cornutus
+Night,2,5,1,Zanclidae Zanclus cornutus
+Night,5,10,1,Zanclidae Zanclus cornutus
+Night,5,15,1,Zanclidae Zanclus cornutus
+Night,1,5,1,Zanclidae Zanclus cornutus
+Day,1,50,1,Zanclidae Zanclus cornutus
